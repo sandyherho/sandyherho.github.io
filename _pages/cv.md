@@ -39,7 +39,7 @@ Work experience
 Skills
 ======
 * Python
-* MATLAB<sup>text&reg</sup>
+* MATLAB<sup>&reg</sup>
 * R
 * $\LaTeX{}$
 * GNU/Linux
