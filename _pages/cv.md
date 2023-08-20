@@ -17,19 +17,30 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2023 - present: Graduate Research Assistant, Earth Systems Modelling Lab, UC Riverside, USA
+  
+* Jul. - Sep. 2023: Adjunct Research Scientist, Atmospheric Science Research Group, ITB, Indonesia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun. - Sep. 2023: Adjunct Research Scientist, Applied Geology Research Group, ITB, Indonesia
+  
+* Aug. 2021 - May 2023: Graduate Research Assistant, Paleoclimate CoLaboratory, UMD, USA
+
+* May - Nov. 2020: Adjunct Assistant Research Scientist, Atmospheric Science Research Group, ITB, Indonesia
+  
+* Feb. - Nov. 2019:  High School Physics Tutor, Surplus Bandung, Indonesia
+
+* Jul. 2017 - Sep. 2019: Research Assistant, Weather and Climate Prediction Laboratory (WCPL), ITB, Indonesia
+  
+* Oct. 2017 - Dec. 2017: Junior Geophysicist, PT Sejahtera Alam Energy (SAE), Indonesia
+
+* Aug. 2017 - Dec. 2017: Research Assistant of the Applied Geology Research Group, ITB, Indonesia
+
   
 Skills
 ======
 * Python
+* MATLAB<sup>text&reg</sup>
+* R
 * $\LaTeX{}$
 * GNU/Linux
 
