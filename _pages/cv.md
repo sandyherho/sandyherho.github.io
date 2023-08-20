@@ -15,6 +15,15 @@ Education
 * M.S. in Geology, University of Maryland at College Park (UMD), 2023
 
 
+Skills
+======
+* GNU/Linux
+* $\LaTeX{}$
+* MATLAB<sup>&reg;</sup>
+* Python
+* R
+
+
 Work experience
 ======
 * Sep. 2023 - present: Graduate Research Assistant, Earth Systems Modelling Lab, UC Riverside, USA
@@ -36,34 +45,3 @@ Work experience
 * Aug. 2017 - Dec. 2017: Research Assistant of the Applied Geology Research Group, ITB, Indonesia
   
 * Jan. - Aug. 2015: Food Counter Clerk, Susu Murni Jagjag, Indonesia
-
-  
-Skills
-======
-* Python
-* MATLAB$^\text{\textregistered}$
-* R
-* $\LaTeX{}$
-* GNU/Linux
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
