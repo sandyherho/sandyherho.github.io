@@ -30,7 +30,7 @@ Work experience
 Skills
 ======
 * Python
-* $\Latex{}$
+* $\LaTeX{}$
 * GNU/Linux
 
 Publications
