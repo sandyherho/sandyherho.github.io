@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sandy Herho"
+title: "👋🏼 Hello there, I'm Sandy!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
