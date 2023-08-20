@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sandy Herho"
   avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Paleoclimatologist"
+  location         : "Riverside, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=uYQgjxMAAAAJ&hl=id"
+  email            :  "sandy.herho@email.ucr.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sandyherho"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "sandyherho"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "sandy-herho-5145991bb"
+  orcid            : "https://orcid.org/0000-0001-8330-2095"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "HerhoSandy"
   vine             :
   weibo            :
   xing             :
