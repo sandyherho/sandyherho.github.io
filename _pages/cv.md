@@ -34,12 +34,14 @@ Work experience
 * Oct. 2017 - Dec. 2017: Junior Geophysicist, PT Sejahtera Alam Energy (SAE), Indonesia
 
 * Aug. 2017 - Dec. 2017: Research Assistant of the Applied Geology Research Group, ITB, Indonesia
+  
+* Jan. - Aug. 2015: Food Counter Clerk, Susu Murni Jagjag, Indonesia
 
   
 Skills
 ======
 * Python
-* MATLAB<sup>&reg</sup>
+* MATLAB<sup><p>&reg</p></sup>
 * R
 * $\LaTeX{}$
 * GNU/Linux
