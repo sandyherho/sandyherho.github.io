@@ -17,7 +17,9 @@ Education
 
 Skills
 ======
+* Fortran
 * GNU/Linux
+* Julia
 * $\LaTeX{}$
 * MATLAB<sup>&reg;</sup>
 * Python
@@ -26,7 +28,7 @@ Skills
 
 Work experience
 ======
-* Sep. 2023 - present: Graduate Research Assistant, Earth Systems Modelling Lab, UC Riverside, USA
+* Oct. 2023 - present: Research Assistant, Earth Systems Modelling Lab, UC Riverside, USA
   
 * Jul. - Sep. 2023: Adjunct Research Scientist, Atmospheric Science Research Group, ITB, Indonesia
 
