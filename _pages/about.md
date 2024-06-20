@@ -10,6 +10,6 @@ redirect_from:
 
 I'm a Research Assistant in the Department of Earth and Planetary Sciences at the University of California, Riverside.
 
-🔬 My research interests are in abrupt climate transitions across the geological time!
+🔬 My research interest is long-term carbon cycle modeling.
 
 🌏  I am also interested in other subjects in the climate sciences and Southeast Asian history.
